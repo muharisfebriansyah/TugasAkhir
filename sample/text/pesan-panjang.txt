@@ -1,0 +1,11 @@
+What is a TXT file?
+A TXT file is a standard text document that contains plain text. It can be opened and edited in any text-editing or word-processing program. TXT files are most often created by Microsoft Notepad and Apple TextEdit, which are basic text editors that come bundled with Windows and macOS, respectively.
+
+More Information
+Screenshot of a .txt file in Microsoft Notepad
+TXT file open in Microsoft Notepad
+TXT files are simple text documents that contain little to no formatting. They are used to store notes, step-by-step instructions, manuscripts, and other text-based information.
+
+Windows and macOS both include simple text editors that can save text documents as TXT files. Microsoft Notepad saves documents as TXT files by default, and Microsoft WordPad and Apple TextEdit can optionally save files as TXT files. When a WordPad or TextEdit user saves a document as a TXT file, those programs strip the document of its formatting (bolding, italicization, font style, alignment, etc.).
+
+Users who need to create more complicated text documents, such as resumes, reports, letters, or flyers, typically do not save those documents as TXT files. Instead, they use Microsoft Word or Apple Pages to create and save their documents as .DOCX or .PAGES files.
